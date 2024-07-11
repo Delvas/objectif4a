@@ -1,4 +1,5 @@
 #importation des modules
+pip install streamlit-option-menu
 from ast import Is
 import datetime
 from os import name
